@@ -2,4 +2,4 @@
 
 This is the source code for openapi/swagger unofficial sensor.community API documentation.
 
-You can see this documentation at https://api-sensor-community.bessarabov.com
+You can see this documentation at [https://api-sensor-community.bessarabov.com](https://thomashodson.com/api.sensor.community/)
